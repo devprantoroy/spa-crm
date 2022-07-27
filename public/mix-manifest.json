@@ -1,0 +1,13 @@
+{
+    "/js/backend_app.js": "/js/backend_app.js?id=5182307eec0a29fb7cd4",
+    "/css/backend_app.css": "/css/backend_app.css?id=1accc8994485a04c8d71",
+    "/js/build_component/Home.js": "/js/build_component/Home.js?id=0aca776a6683668be682",
+    "/js/build_component/Role.js": "/js/build_component/Role.js?id=9546e8d8f5c1b4338ce9",
+    "/js/build_component/adm_menu.js": "/js/build_component/adm_menu.js?id=0ff9011a27580fe6674d",
+    "/js/build_component/assign_permission_model.js": "/js/build_component/assign_permission_model.js?id=66e9b9c174bc0f5cbd6f",
+    "/js/build_component/assign_role_model.js": "/js/build_component/assign_role_model.js?id=b33e676c35a81c677230",
+    "/js/build_component/password_reset.js": "/js/build_component/password_reset.js?id=04d5fda621b43867e3b2",
+    "/js/build_component/permission.js": "/js/build_component/permission.js?id=762cb771103274048ee6",
+    "/js/build_component/user_update.js": "/js/build_component/user_update.js?id=a020db1043ebd907ba46",
+    "/js/build_component/users.js": "/js/build_component/users.js?id=e13d717019a39e253d48"
+}
