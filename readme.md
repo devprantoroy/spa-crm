@@ -12,7 +12,7 @@
 # php/composer already installed
 
 # git clone
-git clone https://repo.dev.jacos.jp/gitbucket/git/M_Uddin/template_vue.git
+git clone https://github.com/devprantoroy/spa-crm.git
 
 composer install
 
